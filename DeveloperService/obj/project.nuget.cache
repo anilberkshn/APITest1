@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eF7lDD7ZVgKsW6F0x5unhASs8rpLPwrpa313Iq5vMifTl2PBp0PVPqg8CV8wqtyCJVxxXlD0QN2PAu1fg+zCOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asuspc\\RiderProjects\\DeveloperTaskCase\\DeveloperService\\DeveloperService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asuspc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
