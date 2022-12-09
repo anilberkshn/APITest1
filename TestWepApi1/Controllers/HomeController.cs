@@ -3,6 +3,8 @@ using TestWepApi1.Services;
 
 namespace TestWepApi1.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class HomeController : ControllerBase
     {
         private ISingletonService _singleton { get; set; }
